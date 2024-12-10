@@ -26,6 +26,7 @@ My research is driven by the goal of advancing multimodal healthcare in the foun
 
 
 # 🔥 News
+- *2024.12*: &nbsp;🎉🎉 One paper accepted by AAAI 2025. 
 - *2024.05*: &nbsp;🎉🎉 One paper accepted by IEEE TMI. 
 - *2024.02*: &nbsp;🎉🎉 Two papers accepted by ISBI 2024. 
 
@@ -64,7 +65,7 @@ Mengjie Xu\*, **Yitao Zhu\***, Haotian Jiang, Jiaming Li, Zhenrong Shen, Sheng W
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/muc_pipeline_new.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images/muc_pipeline_new.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [MUC: Mixture of Uncalibrated Cameras for Robust 3D Human Body Reconstruction](https://arxiv.org/pdf/2403.05055v1.pdf)
