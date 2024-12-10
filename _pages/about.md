@@ -73,7 +73,7 @@ Mengjie Xu\*, **Yitao Zhu\***, Haotian Jiang, Jiaming Li, Zhenrong Shen, Sheng W
 **Yitao Zhu\***, Sheng Wang*, Mengjie Xu, Zixu Zhuang, Zhixin Wang, Kaidong Wang, Han Zhang, Qian Wang<sup>+</sup><br>
 
 - Introduces a technique for accurately reconstructing 3D human poses and shapes from images captured by uncalibrated cameras.
-- Utilizes pre-trained monocular models to estimate camera positions and employs a distance ranking optimization strategy for precise joint fusion, addressing self-occlusion issues.
+- Utilizes pre-trained monocular models to estimate camera positions and employs a distance distribution optimization strategy for precise joint fusion, addressing self-occlusion issues.
 - Deploys a model to reweight human surface for accurate body shape estimation.outputs.
 </div>
 </div>
