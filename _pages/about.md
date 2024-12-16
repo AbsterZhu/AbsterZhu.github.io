@@ -72,7 +72,7 @@ Mengjie Xu\*, **Yitao Zhu\***, Haotian Jiang, Jiaming Li, Zhenrong Shen, Sheng W
 
 **Yitao Zhu\***, Sheng Wang*, Mengjie Xu, Zixu Zhuang, Zhixin Wang, Kaidong Wang, Han Zhang, Qian Wang<sup>+</sup><br>
 
-[**Project**](https://github.com/AbsterZhu/MUC) <strong><span class='show_paper_citations' data='UR1eH9cAAAAJ:9yKSN-GCB0IC'></span></strong> | <img src="https://img.shields.io/github/stars/zhaozh10/ChatCAD?style=social&amp;label=Stars">
+[**Project**](https://github.com/AbsterZhu/MUC) <strong><span class='show_paper_citations' data='UR1eH9cAAAAJ:9yKSN-GCB0IC'></span></strong> | <img src="https://img.shields.io/github/stars/AbsterZhu/MUC?style=social&amp;label=Stars">
 - Introduces a technique for accurately reconstructing 3D human poses and shapes from images captured by uncalibrated cameras.
 - Utilizes pre-trained monocular models to estimate camera positions and employs a distance distribution optimization strategy for precise joint fusion, addressing self-occlusion issues.
 - Deploys a model to reweight human surface for accurate body shape estimation.outputs.
