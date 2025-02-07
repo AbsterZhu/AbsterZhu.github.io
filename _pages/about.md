@@ -121,12 +121,10 @@ Honglin Xiong\*, Sheng Wang\*, **Yitao Zhu\***, Zihao Zhao\*, Yuxiao Liu, Linlin
 
 - [Inter-slice Super-resolution of Magnetic Resonance Images by Pre-training and Self-supervised Fine-tuning](https://arxiv.org/pdf/2406.05974), Xin Wang\*, Zhiyun Song\*, **Yitao Zhu**, Sheng Wang, Lichi Zhang, Dinggang Shen, Qian Wang, **ISBI 2024**
 
-# 🎖 Honors and Awards
-- *2019.10*, Outstanding individual in social practice of ShanghaiTech University. 
-- *2020.09*, Yangtze River Delta Financial Big Data Application Ability Competition, First Prize.
-- *2022.11*, Academic Scholarships, ShanghaiTech University.
-- *2023.11*, Academic Scholarships, ShanghaiTech University.
-- *2024.11*, Academic Scholarships, ShanghaiTech University.
+# 🎖 Activities
+Reviewer for:
+- Pattern Recognitiion
+- CVPR
 
 # 💻 Teaching Assistant
 - *2023.3 - 2023.7*, BME2106 Medical Big-Data and Artificial Intelligence, ShanghaiTech University.
