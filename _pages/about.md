@@ -124,7 +124,8 @@ Honglin Xiong\*, Sheng Wang\*, **Yitao Zhu\***, Zihao Zhao\*, Yuxiao Liu, Linlin
 # 🎖 Activities
 Reviewer for:
 - Pattern Recognitiion
-- CVPR
+- The IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR)
+- Medical Image Computing and Computer Assisted Interventions (MICCAI)
 
 # 💻 Teaching Assistant
 - *2023.3 - 2023.7*, BME2106 Medical Big-Data and Artificial Intelligence, ShanghaiTech University.
