@@ -26,6 +26,7 @@ My research is driven by the goal of advancing multimodal healthcare in the foun
 
 
 # 🔥 News
+- *2025.02*: &nbsp;🎉🎉 One paper accepted by CVPR 2025
 - *2024.12*: &nbsp;🎉🎉 One paper accepted by AAAI 2025 and selected for oral presentation. 
 - *2024.05*: &nbsp;🎉🎉 One paper accepted by IEEE TMI. 
 - *2024.02*: &nbsp;🎉🎉 Two papers accepted by ISBI 2024, one selected for oral presentation. 
@@ -52,7 +53,7 @@ My research is driven by the goal of advancing multimodal healthcare in the foun
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/mitracker_new.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/mitracker_new.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [MITracker: Multi-View Integration for Visual Object Tracking]()
