@@ -53,7 +53,22 @@ My research is driven by the goal of advancing multimodal healthcare in the foun
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/mitracker_new.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/medlego_new.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Med-LEGO: Editing and Adapting toward Generalist Medical Image Diagnosis]()
+
+**Yitao Zhu**, Yuan Yin, Jiaming Li, Mengjie Xu, Zihao Zhao, Honglin Xiong, Sheng Wang, Qian Wang<sup>+</sup><br>
+
+<!-- [**Project**](https://mii-laboratory.github.io/MITracker/) -->
+
+- Med-LEGO is a training-free framework that integrates specialist models into a generalist medical AI system without requiring original training data.
+- SVD-LoRA combines SVD decomposition with Low-Rank Adaptation to capture domain expertise using only 0.18% of full model parameters while mitigating noise.
+- Med-LEGO achieves state-of-the-art performance across multiple medical image datasets and generalizes effectively to new medical tasks.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/mitracker_new.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [MITracker: Multi-View Integration for Visual Object Tracking](https://arxiv.org/abs/2502.20111)
@@ -109,7 +124,7 @@ Zihao Zhao\*, Sheng Wang\*, Jinchen Gu\*, **Yitao Zhu\***, Lanzhuju Mei, Zixu Zh
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/doctorglm_new.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/doctorglm_new.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Doctorglm: Fine-tuning Your Chinese Doctor is not a Herculean Task](https://arxiv.org/pdf/2304.01097.pdf)
