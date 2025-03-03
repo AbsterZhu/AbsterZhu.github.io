@@ -53,7 +53,7 @@ My research is driven by the goal of advancing multimodal healthcare in the foun
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/medlego_new.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/medlego_new.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Med-LEGO: Editing and Adapting toward Generalist Medical Image Diagnosis]()
@@ -68,7 +68,7 @@ My research is driven by the goal of advancing multimodal healthcare in the foun
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/mitracker_new.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/mitracker_new.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [MITracker: Multi-View Integration for Visual Object Tracking](https://arxiv.org/abs/2502.20111)
