@@ -75,7 +75,7 @@ My research is driven by the goal of advancing multimodal healthcare in the foun
 
 Mengjie Xu\*, **Yitao Zhu\***, Haotian Jiang, Jiaming Li, Zhenrong Shen, Sheng Wang, Haolin Huang, Xinyu Wang, Han Zhang, Qing Yang, Qian Wang<sup>+</sup><br>
 
-[**Project**](https://mii-laboratory.github.io/MITracker/) <strong><span class='show_paper_citations' data='UR1eH9cAAAAJ:qjMakFHDy7sC'></span></strong> | <img src="https://img.shields.io/github/stars/XuM007/MITracker?style=social&amp;label=Stars">
+[**Project**](https://mii-laboratory.github.io/MITracker/) <img src="https://img.shields.io/github/stars/XuM007/MITracker?style=social&amp;label=Stars">
 
 - Introduces MVTrack, a large-scale dataset with 234K frames and precise annotations for 27 object categories, providing a benchmark for class-agnostic multi-view object tracking.
 - Proposes MITracker, a method leveraging BEV-guided 3D feature volumes and spatial-enhanced attention for robust target recovery in multi-view tracking.
