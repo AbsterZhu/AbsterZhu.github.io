@@ -56,7 +56,7 @@ My research is driven by the goal of advancing multimodal healthcare in the foun
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/medlego_new.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Med-LEGO: Editing and Adapting toward Generalist Medical Image Diagnosis]()
+[Med-LEGO: Editing and Adapting toward Generalist Medical Image Diagnosis](https://arxiv.org/pdf/2503.01164)
 
 **Yitao Zhu**, Yuan Yin, Jiaming Li, Mengjie Xu, Zihao Zhao, Honglin Xiong, Sheng Wang, Qian Wang<sup>+</sup><br>
 
