@@ -137,8 +137,6 @@ Honglin Xiong\*, Sheng Wang\*, **Yitao Zhu\***, Zihao Zhao\*, Yuxiao Liu, Linlin
 </div>
 </div>
 
-- [Inter-slice Super-resolution of Magnetic Resonance Images by Pre-training and Self-supervised Fine-tuning](https://arxiv.org/pdf/2406.05974), Xin Wang\*, Zhiyun Song\*, **Yitao Zhu**, Sheng Wang, Lichi Zhang, Dinggang Shen, Qian Wang, **ISBI 2024**
-
 # 🎖 Activities
 Reviewer for:
 - Pattern Recognitiion
